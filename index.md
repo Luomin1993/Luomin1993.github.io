@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Luomin1993/Luomin1993.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
- ![me](https://github.com/Luomin1993/Luomin1993.github.io/blob/master/me.png)
+ ![me](https://img-blog.csdn.net/20180913211146727?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2hhbnNzMg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
