@@ -1,14 +1,26 @@
-## Welcome: I'm Mincong Luo(羅敏中)
+## Welcome: I'm Mincong Luo (羅敏中)
 
-You can use the [editor on GitHub](https://github.com/Luomin1993/Luomin1993.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
- <!--![me](me.jpg)-->
- <img src="me.jpg" width="50" hegiht="30" align=center />
+I am now a postgraduate student in mainland of [China Institute of Atomic Energy](http://www.ciae.ac.cn/index.jsp), my major is Applied Mathematics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ <img src="me.jpg" width="200" hegiht="200" align=center />
 
-### Markdown
+This is the details of my research experience, with my research experience and papers, code, and handout details:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### [My Papers And Code(點擊查看下载我的論文、講義及其代碼)](https://github.com/Luomin1993/Luomin1993.github.io/blob/master/My_CV.pdf)
 
+-------------------------------------------
+### My Research Interests
+- AI algorithm in scientific research field (automatic formula derivation, semantic understanding).
+- Robotic virtual environment and visual semantic fusion algorithm.
+- Quantitative trading implementation and algorithms.
+
+
+-------------------------------------------
+### About Me
+
+- **My CV** :https://github.com/Luomin1993/Luomin1993.github.io/raw/master/My_CV.pdf
+- **My Ph.D Plan** :https://github.com/Luomin1993/Luomin1993.github.io/raw/master/My_Phd_plan.pdf
+- **My GitHub** :https://github.com/Luomin1993
+- **My Blog** :https://blog.csdn.net/hanss2
 
