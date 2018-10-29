@@ -1,4 +1,4 @@
-## Welcome: I'm Mincong Luo (羅敏中)![me](name.png)
+## Welcome: I'm Mincong Luo ![me](name.png)
 
 
 I am now a postgraduate student in mainland of [China Institute of Atomic Energy](http://www.ciae.ac.cn/index.jsp), my major is Applied Mathematics.
