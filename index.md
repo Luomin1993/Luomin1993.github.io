@@ -10,6 +10,13 @@ This is the details of my research experience, with my research experience and p
 #### [My Papers And Code(點擊查看下载我的論文、講義及其代碼)](https://github.com/Luomin1993/Luomin1993.github.io/blob/master/My_CV.pdf)
 
 -------------------------------------------
+
+![me](new.png) My paper:
+**Generative Model for Material Experiments Based on Prior Knowledge and Attention Mechanism**
+has been ACCEPTED as a workshop paper of **NIPS2018**  !!!
+
+
+-------------------------------------------
 ### My Research Interests
 - AI algorithm in scientific research field (automatic formula derivation, semantic understanding).
 - Robotic virtual environment and visual semantic fusion algorithm.
