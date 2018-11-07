@@ -1,7 +1,7 @@
 ## Welcome: I'm Mincong Luo ![me](name.png)
 
 
-I am now a postgraduate student in mainland of [China Institute of Atomic Energy](http://www.ciae.ac.cn/index.jsp), my major is Applied Mathematics.
+I am now a postgraduate student in mainland of [M-C group of CIAE](https://luomin1993.github.io/CIAE_MC/), my major is Applied Mathematics.
 
 ![me](me.png)
 
