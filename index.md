@@ -16,6 +16,8 @@ This is the details of my research experience, with my research experience and p
 has been ACCEPTED as a workshop paper of **NIPS2018**  !!!
 
 
+![me](new.png) I was elected as a **REVIEWER** for the ICIAI 2019 - ACM, ISBN: 978-1-4503-6128-6,Welcome Submissions!
+
 -------------------------------------------
 ### My Research Interests
 - AI algorithm in scientific research field (automatic formula derivation, semantic understanding).
