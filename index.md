@@ -19,6 +19,14 @@ has been ACCEPTED as a workshop paper of **NIPS2018**  !!!
 ![me](new.png) I was elected as a **REVIEWER** for the ICIAI 2019 - ACM, ISBN: 978-1-4503-6128-6,Welcome Submissions!
 
 -------------------------------------------
+### Professional Experience(工作經歷)
+
+- ![sougou](cv_sougou.png)  Sougou: Intern Algorithm Engineer(2017.10-2018.2)
+- ![sian](cv_sina.png)  Sina WeiBo: Intern Algorithm Engineer(2018.2-2018.5)
+- ![CSA](cv_csa.png)  CSA: Intern Algorithm Researcher(2018.5-NOW)
+
+
+-------------------------------------------
 ### My Research Interests
 - AI algorithm in scientific research field (automatic formula derivation, semantic understanding).
 - Robotic virtual environment and visual semantic fusion algorithm.
