@@ -22,9 +22,16 @@ has been ACCEPTED as a workshop paper of **NIPS2018**  !!!
 ### Professional Experience(工作經歷)
 
 - ![sougou](cv_sougou.png)  Sougou: Intern Algorithm Engineer(2017.10-2018.2)
+
+>My work in Sougou motivated by:machine learning for risk assessment in **stock market/futures/foreign exchange** trading.
+
 - ![sian](cv_sina.png)  Sina WeiBo: Intern Algorithm Engineer(2018.2-2018.5)
+
+>My work in Sina motivated by:reinforcement learning for automatic symbolic computation
+
 - ![CSA](cv_csa.png)  CSA: Intern Algorithm Researcher(2018.5-NOW)
 
+>My work in CSA motivated by:logical reasoning combined with vision and semantics (Explainable AI)
 
 -------------------------------------------
 ### My Research Interests
