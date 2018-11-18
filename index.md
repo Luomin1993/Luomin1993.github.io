@@ -11,12 +11,17 @@ This is the details of my research experience, with my research experience and p
 
 -------------------------------------------
 
-![me](new.png) My paper:
+![me](new.gif) My paper:
 **Generative Model for Material Experiments Based on Prior Knowledge and Attention Mechanism**
-has been ACCEPTED as a workshop paper of **NIPS2018**  !!!
+has been ACCEPTED as a workshop paper by **NIPS2018**  !!!
 
 
-![me](new.png) I was elected as a **REVIEWER** for the ICIAI 2019 - ACM, ISBN: 978-1-4503-6128-6,Welcome Submissions!
+![me](new.gif) My paper:
+**Orthogonal Policy Gradient and Autonomous Driving Application**
+has been ACCEPTED by **IEEE/ICSESS** !
+
+
+![me](new.gif) I was elected as a **REVIEWER** for the ICIAI 2019 - ACM, ISBN: 978-1-4503-6128-6,Welcome Submissions!
 
 -------------------------------------------
 ### Professional Experience(工作經歷)
