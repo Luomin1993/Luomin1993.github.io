@@ -51,22 +51,22 @@ has been ACCEPTED by **IEEE/ICSESS** !
 ##### Orthogonal Policy Gradient and Autonomous Driving Application
 we present an approach called orthogonal policy gradient descent(OPGD) that can make agent learn the policy gradient based on the current state and the actions set, by which the agent can learn a policy network with generalization capability. 
 
-<img src="pro_auto.png" width="300" hegiht="313" align=center />
+![CSA](pro_auto.png)
 
 ##### Semantic Segmentation with Mente-Carlo Sampling
 The labels of the pixels in the image can be considered as a distribution between pixels and labels, which can be sampled by M-C like method. 
 
-<img src="pro_seg.png" width="300" hegiht="313" align=center />
+![CSA](pro_seg.png)
 
 ##### Visual Semantic Space
 The information of images is disorganized and with noise, but language is high-level organized and abstract. In this research we try to find a share space between visual and semantic.
 
-<img src="pro_sem.png" width="300" hegiht="313" align=center />
+![CSA](pro_sem.png)
 
 ##### Reasoning Based on Visual Semantic
 One less aspect of neural representation learning is short of logic-reasoning ability, in this research we map the embedding space with visual and semantic information to a logic graph space for reasoning tasks.
 
-<img src="pro_reasoning.png" width="300" hegiht="313" align=center />
+![CSA](pro_reasoning.png)
 
 
 
