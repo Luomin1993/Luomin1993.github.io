@@ -24,7 +24,7 @@ has been ACCEPTED by **IEEE/ICSESS** !
 ![me](new.gif) I was elected as a **REVIEWER** for the ICIAI 2019 - ACM, ISBN: 978-1-4503-6128-6,Welcome Submissions!
 
 -------------------------------------------
-### Professional Experience(工作經歷)
+### Professional Experience(我的科研經歷)
 
 - ![sougou](cv_sougou.png)  Sougou: Intern Algorithm Engineer(2017.10-2018.2)
 
@@ -39,10 +39,35 @@ has been ACCEPTED by **IEEE/ICSESS** !
 >My work in CSA motivated by:logical reasoning combined with vision and semantics (Explainable AI)
 
 -------------------------------------------
-### My Research Interests
+### My Research Interests(我的科研興趣)
 - AI algorithm in scientific research field (automatic formula derivation, semantic understanding).
 - Robotic virtual environment and visual semantic fusion algorithm.
 - Quantitative trading implementation and algorithms.
+
+
+--------------------------------------------
+### Progress of My Reasearch(我的科研進展)
+
+##### Orthogonal Policy Gradient and Autonomous Driving Application
+we present an approach called orthogonal policy gradient descent(OPGD) that can make agent learn the policy gradient based on the current state and the actions set, by which the agent can learn a policy network with generalization capability. 
+
+<img src="pro_auto.png" width="300" hegiht="313" align=center />
+
+##### Semantic Segmentation with Mente-Carlo Sampling
+The labels of the pixels in the image can be considered as a distribution between pixels and labels, which can be sampled by M-C like method. 
+
+<img src="pro_seg.png" width="300" hegiht="313" align=center />
+
+##### Visual Semantic Space
+The information of images is disorganized and with noise, but language is high-level organized and abstract. In this research we try to find a share space between visual and semantic.
+
+<img src="pro_sem.png" width="300" hegiht="313" align=center />
+
+##### Reasoning Based on Visual Semantic
+One less aspect of neural representation learning is short of logic-reasoning ability, in this research we map the embedding space with visual and semantic information to a logic graph space for reasoning tasks.
+
+<img src="pro_reasoning.png" width="300" hegiht="313" align=center />
+
 
 
 -------------------------------------------
