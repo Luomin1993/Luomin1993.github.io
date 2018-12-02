@@ -12,6 +12,11 @@ This is the details of my research experience, with my research experience and p
 -------------------------------------------
 
 ![me](new.gif) My paper:
+**Automatic Derivation of Formulas by Graph Embedding and Pattern Matching Network**
+has been ACCEPTED as a SRC Program Paper by **34th ACM-SAC**  !!!
+
+
+![me](new.gif) My paper:
 **Generative Model for Material Experiments Based on Prior Knowledge and Attention Mechanism**
 has been ACCEPTED as a workshop paper by **NIPS2018**  !!!
 
