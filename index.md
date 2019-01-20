@@ -21,12 +21,12 @@ has been ACCEPTED as a SRC Program Paper by **34th ACM-SAC**  !!!
 has been ACCEPTED as a workshop paper by **NIPS2018**  !!!
 
 
-![me] My paper:
+My paper:
 **Orthogonal Policy Gradient and Autonomous Driving Application**
 has been ACCEPTED by **IEEE/ICSESS** !
 
 
-![me] I was elected as a **REVIEWER** for the ICIAI 2019 - ACM, ISBN: 978-1-4503-6128-6,Welcome Submissions!
+I was elected as a **REVIEWER** for the ICIAI 2019 - ACM, ISBN: 978-1-4503-6128-6,Welcome Submissions!
 
 -------------------------------------------
 ### Professional Experience(我的科研經歷)
