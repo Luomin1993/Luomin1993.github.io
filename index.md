@@ -7,7 +7,6 @@ I am now a postgraduate student in mainland of [M-C group of CIAE](https://luomi
 
 This is the details of my research experience, with my research experience and papers, code, and handout details:
 
-#### [My Papers And Code(點擊查看下载我的論文、講義及其代碼)](https://github.com/Luomin1993/Luomin1993.github.io/raw/master/My_CV.pdf)
 
 -------------------------------------------
 
@@ -58,10 +57,6 @@ we present an approach called orthogonal policy gradient descent(OPGD) that can 
 
 ![CSA](pro_auto.png)
 
-##### Semantic Segmentation with Mente-Carlo Sampling
-The labels of the pixels in the image can be considered as a distribution between pixels and labels, which can be sampled by M-C like method. 
-
-![CSA](pro_seg.png)
 
 ##### Visual Semantic Space
 The information of images is disorganized and with noise, but language is high-level organized and abstract. In this research we try to find a share space between visual and semantic.
@@ -79,7 +74,6 @@ One less aspect of neural representation learning is short of logic-reasoning ab
 ### About Me
 
 - [**Dowload My CV**](https://github.com/Luomin1993/Luomin1993.github.io/raw/master/My_CV.pdf)
-- [**Dowload My Ph.D Plan**](https://github.com/Luomin1993/Luomin1993.github.io/raw/master/My_Phd_plan.pdf)
 - **My GitHub** :https://github.com/Luomin1993
 - **My Blog** :https://blog.csdn.net/hanss2
 
