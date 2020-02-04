@@ -30,7 +30,7 @@ I was elected as a **REVIEWER** for the ICIAI 2019 - ACM, ISBN: 978-1-4503-6128-
 -------------------------------------------
 ### Professional Experience(我的科研經歷)
 
-- ![CSA](cv_csa.png)  CSA: PhD student(2019.9-NOW)
+- ![CSA](cv_iie.png)  CSA: PhD student(2019.9-NOW)
 
 >My work in SKLOIS is about: Algebra-based intelligent language processing (Algebraic method)
  
