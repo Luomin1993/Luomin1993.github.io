@@ -1,7 +1,7 @@
 ## Welcome: I'm Mincong Luo ![me](name.png)
 
 
-I am now a postgraduate student in mainland of [M-C group of CIAE](https://luomin1993.github.io/CIAE_MC/), my major is Applied Mathematics.
+I am now a PhD student in [State Key Laboratory of Information Security](http://www.sklois.cn/), my major is Network Security.
 
 ![me](me.png)
 
@@ -10,43 +10,40 @@ This is the details of my research experience, with my research experience and p
 
 -------------------------------------------
 
-![me](new.gif) My paper:
+My paper:
 **Automatic Derivation of Formulas by Graph Embedding and Pattern Matching Network**
-has been ACCEPTED as a SRC Program Paper by **34th ACM-SAC**  !!!
+has been ACCEPTED as a SRC Program Paper by **34th ACM-SAC**(2018.12);
 
 
-![me](new.gif) My paper:
+My paper:
 **Generative Model for Material Experiments Based on Prior Knowledge and Attention Mechanism**
-has been ACCEPTED as a workshop paper by **NIPS2018**  !!!
+has been ACCEPTED as a workshop paper by **NIPS2018**(2018.11);
 
 
 My paper:
 **Orthogonal Policy Gradient and Autonomous Driving Application**
-has been ACCEPTED by **IEEE/ICSESS** !
+has been ACCEPTED by **IEEE/ICSESS**(2018.10);
 
 
-I was elected as a **REVIEWER** for the ICIAI 2019 - ACM, ISBN: 978-1-4503-6128-6,Welcome Submissions!
+I was elected as a **REVIEWER** for the ICIAI 2019 - ACM, ISBN: 978-1-4503-6128-6(2018.10);
 
 -------------------------------------------
 ### Professional Experience(我的科研經歷)
 
-- ![sougou](cv_sougou.png)  Sougou: Intern Algorithm Engineer(2017.10-2018.2)
+- ![CSA](cv_csa.png)  CSA: PhD student(2019.9-NOW)
 
->My work in Sougou motivated by:machine learning for risk assessment in **stock market/futures/foreign exchange** trading.
+>My work in SKLOIS is about: Algebra-based intelligent language processing (Algebraic method)
+ 
 
-- ![sian](cv_sina.png)  Sina WeiBo: Intern Algorithm Engineer(2018.2-2018.5)
-
->My work in Sina motivated by:reinforcement learning for automatic symbolic computation
-
-- ![CSA](cv_csa.png)  CSA: Intern Algorithm Researcher(2018.5-NOW)
+- ![CSA](cv_csa.png)  CSA: Intern Algorithm Researcher(2018.5-2019.05)
 
 >My work in CSA motivated by:logical reasoning combined with vision and semantics (Explainable AI)
 
 -------------------------------------------
 ### My Research Interests(我的科研興趣)
-- AI algorithm in scientific research field (automatic formula derivation, semantic understanding).
-- Robotic virtual environment and visual semantic fusion algorithm.
-- Quantitative trading implementation and algorithms.
+- AI algorithm in scientific research field(Algebraic method).
+- Robotic virtual environment and visual semantic fusion algorithm(Algebraic method).
+- Quantitative trading implementation and algorithms(Algebraic method).
 
 
 --------------------------------------------
@@ -71,9 +68,8 @@ One less aspect of neural representation learning is short of logic-reasoning ab
 
 
 -------------------------------------------
-### About Me
+### More Details About Me
 
-- [**Dowload My CV**](https://github.com/Luomin1993/Luomin1993.github.io/raw/master/My_CV.pdf)
 - **My GitHub** :https://github.com/Luomin1993
 - **My Blog** :https://blog.csdn.net/hanss2
 
