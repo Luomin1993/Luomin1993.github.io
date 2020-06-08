@@ -10,6 +10,10 @@ This is the details of my research experience, with my research experience and p
 
 -------------------------------------------
 
+My new draft paper:
+[Polynomial Semantic Representation](https://luomin1993.github.io/
+Polynomial_Semantic_Representation.pdf)
+
 My paper:
 **Automatic Derivation of Formulas by Graph Embedding and Pattern Matching Network**
 has been ACCEPTED as a SRC Program Paper by **34th ACM-SAC**(2018.12);
