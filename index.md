@@ -1,7 +1,7 @@
 ## Welcome: I'm Mincong Luo ![me](name.png)
 
 
-I am now a PhD student in [State Key Laboratory of Information Security](http://www.sklois.cn/), my major is Network Security.
+I am now a PhD candidate in [State Key Laboratory of Information Security](http://www.sklois.cn/), my major is Network Security.
 
 ![me](me.png)
 
@@ -9,6 +9,18 @@ This is the details of my research experience, with my research experience and p
 
 
 -------------------------------------------
+
+My paper:
+**Traffic Route Planning in Partially Observable Enviroment Using Actions Group Representation**
+has been ACCEPTED as a SRC Program Paper by **The 14th International Conference on Knowledge Science, Engineering and Management(KSEM 2021)**(2021.06);
+
+My paper:
+**Implementing Inductive Logic into Embedded Industrial Control System with Polynomial Ring on F2**
+has been ACCEPTED as a SRC Program Paper by **2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC)**(2021.05);
+
+My paper:
+**Fuzzy World:A Tool Training Agent from Concept Cognitive to Logic Inference**
+has been ACCEPTED by **Pacific-Asia Conference on Knowledge Discovery and Data Mining 2021**(2021.02);
 
 My new draft paper:
 [Polynomial Semantic Representation](https://luomin1993.github.io/
