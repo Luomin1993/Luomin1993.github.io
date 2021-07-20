@@ -10,10 +10,12 @@ This is the details of my research experience, with my research experience and p
 
 -------------------------------------------
 
+![new](new.gif)
 My paper:
 **Traffic Route Planning in Partially Observable Enviroment Using Actions Group Representation**
 has been ACCEPTED as a SRC Program Paper by **The 14th International Conference on Knowledge Science, Engineering and Management(KSEM 2021)**(2021.06);
 
+![new](new.gif)
 My paper:
 **Implementing Inductive Logic into Embedded Industrial Control System with Polynomial Ring on F2**
 has been ACCEPTED as a SRC Program Paper by **2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC)**(2021.05);
