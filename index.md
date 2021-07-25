@@ -1,7 +1,7 @@
 ## Welcome: I'm Mincong Luo ![me](name.png)
 
 
-I am now a PhD candidate in [State Key Laboratory of Information Security](http://www.sklois.cn/), my major is **Computating Algebraic Geometry**.
+I am now a PhD candidate in [State Key Laboratory of Information Security](http://www.sklois.cn/), my major is **Computing Algebraic Geometry**.
 
 ![me](me.png)
 
