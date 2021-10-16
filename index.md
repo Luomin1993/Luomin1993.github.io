@@ -3,7 +3,7 @@
 
 I am now a PhD candidate in [State Key Laboratory of Information Security](http://www.sklois.cn/), my major is **Computing Algebraic Geometry**.
 
-![me](me.png)
+![me](me-2021.png)
 
 This is the details of my research experience, with my research experience and papers, code, and handout details:
 
@@ -32,62 +32,40 @@ My paper:
 **Automatic Derivation of Formulas by Graph Embedding and Pattern Matching Network**
 has been ACCEPTED as a SRC Program Paper by **34th ACM-SAC**(2018.12);
 
-
 My paper:
 **Generative Model for Material Experiments Based on Prior Knowledge and Attention Mechanism**
 has been ACCEPTED as a workshop paper by **NIPS2018**(2018.11);
-
 
 My paper:
 **Orthogonal Policy Gradient and Autonomous Driving Application**
 has been ACCEPTED by **IEEE/ICSESS**(2018.10);
 
+-------------------------------------------
+### Education Experience(我的教育經歷)
 
-I was elected as a **REVIEWER** for the ICIAI 2019 - ACM, ISBN: 978-1-4503-6128-6(2018.10);
+- China Academy of Atomic Energy(2016 - 2019):Master in Applied Mathematics;
+
+- North China Electric Power University(211 Universities)(2012 - 2016):Bachelor in Nuclear Engineering;
 
 -------------------------------------------
 ### Professional Experience(我的科研經歷)
 
 - ![CSA](cv_iie.png)  CSA: PhD student(2019.9-NOW)
 
->My work in SKLOIS is about: Algebra-based intelligent language processing (Algebraic method)
+>My work in SKLOIS is about: Computing Algebraic Geometry (Algebraic method)
  
 
 - ![CSA](cv_csa.png)  CSA: Intern Algorithm Researcher(2018.5-2019.05)
 
->My work in CSA motivated by:logical reasoning combined with vision and semantics (Explainable AI)
+>My work in CSA motivated by:logical reasoning combined with vision and semantics (Neural-Symbolic AI)
 
 -------------------------------------------
 ### My Research Interests(我的科研興趣)
-- AI algorithm in scientific research field(Algebraic method).
-- Robotic virtual environment and visual semantic fusion algorithm(Algebraic method).
-- Quantitative trading implementation and algorithms(Algebraic method).
-
-
---------------------------------------------
-### Progress of My Reasearch(我的科研進展)
-
-##### Orthogonal Policy Gradient and Autonomous Driving Application
-we present an approach called orthogonal policy gradient descent(OPGD) that can make agent learn the policy gradient based on the current state and the actions set, by which the agent can learn a policy network with generalization capability. 
-
-![CSA](pro_auto.png)
-
-
-##### Visual Semantic Space
-The information of images is disorganized and with noise, but language is high-level organized and abstract. In this research we try to find a share space between visual and semantic.
-
-![CSA](pro_sem.png)
-
-##### Reasoning Based on Visual Semantic
-One less aspect of neural representation learning is short of logic-reasoning ability, in this research we map the embedding space with visual and semantic information to a logic graph space for reasoning tasks.
-
-![CSA](pro_reasoning.png)
-
-
+- Applied algebraic geometry(Algebraic method for AI/Cryptography).
+- Discrete optimization based on Reinforcement Learning(SAT problem/MQ problem).
 
 -------------------------------------------
 ### More Details About Me
 
 - **My GitHub** :https://github.com/Luomin1993
 - **My Blog** :https://blog.csdn.net/hanss2
-
