@@ -266,6 +266,18 @@ jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 </head>
 
+<head><style>
+.code_commandline_start {
+color: blue;
+font-weight: bold;
+}
+
+.code_commandline_bash {
+color: green;
+font-style: italic;
+}
+</style></head>
+
 <body lang="ZH-CN" link="blue" vlink="#954F72" style="tab-interval:21.0pt;
 text-justify-trim:punctuation">
 
@@ -321,7 +333,6 @@ char;background:white"><span style="font-size:16.0pt;font-family:宋体;color:bl
 
 </span><span lang="EN-US" style="font-size:16.0pt"><o:p></o:p></span></p>
 
-
 <p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
 margin-left:0cm;layout-grid-mode:char"><span lang="EN-US" style="font-size:14.0pt;
 mso-bidi-font-size:12.0pt">&nbsp;</span><span lang="EN-US" style="font-size:12.5pt;
@@ -329,7 +340,31 @@ mso-bidi-font-size:10.5pt"><o:p></o:p></span></p>
 
 </div>
 
+在安装GiNaC之后,即可编译使用PPSH计算程序:
+<p></p>
 
+1.编译源代码:
+<p></p>
 
+<pre><code>
+<span class="code_commandline_start">/path/to/ppsh$</span> <span class="code_commandline_bash">g++ ppsh_functions.cpp -lginac -lcln -fPIC -shared -o libppsh.so</span>
+</code></pre>
+
+<p></p>
+2.编译你自己的程序(这里是测试程序):
+
+<pre><code>
+<span class="code_commandline_start">/path/to/ppsh$</span> <span class="code_commandline_bash">g++ test_ppsh_functions.cpp -lginac -lcln -L. -lppsh -o exe</span>
+<span class="code_commandline_start">/path/to/ppsh$</span> <span class="code_commandline_bash">./exe</span>
+g^1 = 1+a+2*a^2
+g^2 = 2*a+a^2
+g^3 = 1+2*a+a^2
+g^4 = 2
+g^5 = 2+2*a+4*a^2
+g^6 = a+2*a^2
+g^7 = 2+a+2*a^2
+g^8 = 1
+g^9 = 1+a+2*a^2
+</code></pre>
 
 </body></html>
