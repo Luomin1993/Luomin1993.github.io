@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>游记 | Travelogue</title>
+  <style>
+    :root {
+      --paper: #f7f0de;
+      --paper-dark: #e5d8b8;
+      --ink: #2a2417;
+      --accent: #0f4f73;
+      --accent-soft: #cfe5f1;
+      --line: #9f8a5e;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Times New Roman", "SimSun", serif;
+      color: var(--ink);
+      background:
+        linear-gradient(180deg, rgba(255,255,255,0.35), rgba(255,255,255,0.35)),
+        repeating-linear-gradient(
+          to bottom,
+          var(--paper) 0,
+          var(--paper) 31px,
+          #f2e7cc 32px
+        );
+    }
+
+    .wrap {
+      width: min(980px, 92vw);
+      margin: 20px auto 40px;
+      border: 3px double var(--line);
+      background: #fffaf0;
+      box-shadow: 0 0 0 5px #e4d4ac, 0 8px 24px rgba(0, 0, 0, 0.2);
+    }
+
+    header {
+      padding: 24px 28px 16px;
+      border-bottom: 2px solid var(--line);
+      background: linear-gradient(to right, #f3e7c6, #efe0b8);
+    }
+
+    .site-title {
+      margin: 0;
+      font-size: clamp(28px, 5vw, 42px);
+      letter-spacing: 1px;
+      color: #19313f;
+      text-shadow: 1px 1px 0 #fff;
+    }
+
+    .subtitle {
+      margin: 8px 0 0;
+      font-size: 14px;
+      color: #4a4130;
+    }
+
+    nav {
+      margin-top: 14px;
+      font-size: 14px;
+    }
+
+    nav a {
+      color: #123f5a;
+      text-decoration: underline;
+      margin-right: 12px;
+    }
+
+    main {
+      padding: 20px 28px 30px;
+      line-height: 1.75;
+      font-size: 17px;
+    }
+
+    .post-title {
+      margin: 0;
+      font-size: clamp(24px, 3.8vw, 34px);
+      border-left: 8px solid var(--accent);
+      padding-left: 12px;
+    }
+
+    .meta {
+      margin: 10px 0 20px;
+      padding: 10px 12px;
+      border: 1px dashed var(--line);
+      background: #fbf4df;
+      font-size: 15px;
+    }
+
+    .note-box {
+      margin: 20px 0;
+      border: 1px solid #8aa9b9;
+      background: var(--accent-soft);
+      padding: 12px 14px;
+      font-size: 15px;
+    }
+
+    h2 {
+      margin-top: 28px;
+      margin-bottom: 10px;
+      font-size: 24px;
+      color: #1f3d4d;
+      border-bottom: 1px solid #8eb1c5;
+      padding-bottom: 4px;
+    }
+
+    .photo-block {
+      margin: 16px 0 24px;
+      padding: 12px;
+      border: 1px solid #b39a69;
+      background: #fdf6e3;
+    }
+
+    .photo-frame {
+      width: 400px;
+      height: 400px;
+      max-width: 100%;
+      border: 6px ridge #c4aa75;
+      display: block;
+      object-fit: cover;
+      margin: 0 auto;
+      background: #e9dfc5;
+    }
+
+    .caption {
+      text-align: center;
+      font-size: 14px;
+      margin-top: 8px;
+      color: #5b4d35;
+    }
+
+    .journal {
+      margin-top: 10px;
+      background: #fff;
+      border-left: 4px solid #caaf79;
+      padding: 10px 12px;
+    }
+
+    footer {
+      border-top: 2px solid var(--line);
+      padding: 12px 20px 16px;
+      font-size: 13px;
+      color: #514531;
+      background: #f0e2bf;
+      text-align: center;
+    }
+
+    @media (max-width: 640px) {
+      main { padding: 16px; font-size: 16px; }
+      header { padding: 18px 16px 14px; }
+      .meta { font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1 class="site-title">德国的流浪汉观察</h1>
+      <p class="subtitle">Travel Notes</p>
+    </header>
+
+    <main>
+
+      <section id="intro">
+        <p>在欧洲每个国家我都见过流浪汉,但是德国的流浪汉看起来过得最好,且人数最多.他们有时会一起坐在超市门口,有时候和本地人闲聊,有时坐在台阶上吃着快餐.我在某个公交车站见过一个流浪汉吃着盒装蔬菜沙拉,实际上在欧洲这种沙拉比含肉食快餐如卷饼或三明治明显更贵,说明他并不是很饥饿、且注意饮食全面、补充维生素.</p>
+        <p>流浪汉和乞丐是两回事,虽然有交集,但是不少德国流浪汉并不乞讨,而乞讨的人却不一定是流浪的,可能有固定居所.我在亚琛见过最年轻的乞丐,那是一个13岁左右的青少年,在农贸市场旁边落寞地坐着乞讨,但是他看起来打扮干净,应该有住的地方.</p>
+        <p>按理说德国的流浪汉应该会有政府救助金,外加德国的物价真的很低,我在德国时的一顿饭经常是一个果酱面包、一个碱水面包作主食,加起来三欧元出头,而在芬兰随便一个面包就是10欧左右.单说吃的话流浪汉们应该开销不大,住宿有夜间收容所(但是床位很有限、大多人还是得露宿街头和桥洞),医疗的话据说有政府保障通道、但是只能应对一些基本小毛病比如感冒和感染.</p>
+        <p>德国的流浪汉很多都是迫不得已,因为偶然的一次房租断缴就很可能导致他们失去固定住所,进而无法找到合法工作,进入一个流浪循环.话说回来由于在欧洲偶尔的极端转机时间比如凌晨06:30,我也曾当过"流浪汉",就地而卧睡在大厅的角落,算是练就了到哪躺着都能睡着的本领.</p>
+      </section>
+
+      <section id="day1">
+        <div class="photo-block">
+          <img class="photo-frame" src="img/img_ger.png" alt="照片">
+          <p class="caption">德国教堂前的婚礼.</p>
+        </div>
+      </section>
+
+    <footer>
+      Last Updated: 2026-05-31 | Template File: mod.html
+    </footer>
+  </div>
+</body>
+</html>

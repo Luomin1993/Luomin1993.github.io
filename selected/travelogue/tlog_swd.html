@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>游记 | Travelogue</title>
+  <style>
+    :root {
+      --paper: #f7f0de;
+      --paper-dark: #e5d8b8;
+      --ink: #2a2417;
+      --accent: #0f4f73;
+      --accent-soft: #cfe5f1;
+      --line: #9f8a5e;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Times New Roman", "SimSun", serif;
+      color: var(--ink);
+      background:
+        linear-gradient(180deg, rgba(255,255,255,0.35), rgba(255,255,255,0.35)),
+        repeating-linear-gradient(
+          to bottom,
+          var(--paper) 0,
+          var(--paper) 31px,
+          #f2e7cc 32px
+        );
+    }
+
+    .wrap {
+      width: min(980px, 92vw);
+      margin: 20px auto 40px;
+      border: 3px double var(--line);
+      background: #fffaf0;
+      box-shadow: 0 0 0 5px #e4d4ac, 0 8px 24px rgba(0, 0, 0, 0.2);
+    }
+
+    header {
+      padding: 24px 28px 16px;
+      border-bottom: 2px solid var(--line);
+      background: linear-gradient(to right, #f3e7c6, #efe0b8);
+    }
+
+    .site-title {
+      margin: 0;
+      font-size: clamp(28px, 5vw, 42px);
+      letter-spacing: 1px;
+      color: #19313f;
+      text-shadow: 1px 1px 0 #fff;
+    }
+
+    .subtitle {
+      margin: 8px 0 0;
+      font-size: 14px;
+      color: #4a4130;
+    }
+
+    nav {
+      margin-top: 14px;
+      font-size: 14px;
+    }
+
+    nav a {
+      color: #123f5a;
+      text-decoration: underline;
+      margin-right: 12px;
+    }
+
+    main {
+      padding: 20px 28px 30px;
+      line-height: 1.75;
+      font-size: 17px;
+    }
+
+    .post-title {
+      margin: 0;
+      font-size: clamp(24px, 3.8vw, 34px);
+      border-left: 8px solid var(--accent);
+      padding-left: 12px;
+    }
+
+    .meta {
+      margin: 10px 0 20px;
+      padding: 10px 12px;
+      border: 1px dashed var(--line);
+      background: #fbf4df;
+      font-size: 15px;
+    }
+
+    .note-box {
+      margin: 20px 0;
+      border: 1px solid #8aa9b9;
+      background: var(--accent-soft);
+      padding: 12px 14px;
+      font-size: 15px;
+    }
+
+    h2 {
+      margin-top: 28px;
+      margin-bottom: 10px;
+      font-size: 24px;
+      color: #1f3d4d;
+      border-bottom: 1px solid #8eb1c5;
+      padding-bottom: 4px;
+    }
+
+    .photo-block {
+      margin: 16px 0 24px;
+      padding: 12px;
+      border: 1px solid #b39a69;
+      background: #fdf6e3;
+    }
+
+    .photo-frame {
+      width: 400px;
+      height: 400px;
+      max-width: 100%;
+      border: 6px ridge #c4aa75;
+      display: block;
+      object-fit: cover;
+      margin: 0 auto;
+      background: #e9dfc5;
+    }
+
+    .caption {
+      text-align: center;
+      font-size: 14px;
+      margin-top: 8px;
+      color: #5b4d35;
+    }
+
+    .journal {
+      margin-top: 10px;
+      background: #fff;
+      border-left: 4px solid #caaf79;
+      padding: 10px 12px;
+    }
+
+    footer {
+      border-top: 2px solid var(--line);
+      padding: 12px 20px 16px;
+      font-size: 13px;
+      color: #514531;
+      background: #f0e2bf;
+      text-align: center;
+    }
+
+    @media (max-width: 640px) {
+      main { padding: 16px; font-size: 16px; }
+      header { padding: 18px 16px 14px; }
+      .meta { font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1 class="site-title">瑞士旅居随感</h1>
+      <p class="subtitle">Travel Notes</p>
+    </header>
+
+    <main>
+
+      <section id="intro">
+        <p>初到瑞士时我并不喜欢在白天出去活动,我一般喜欢在傍晚和早晨出去散散步.瑞士虽然是山地多,但是喜欢骑车的人并不少.我曾经见过几个很执拗的、以比步行速度还慢的、一定要把车骑上山顶的瑞士人.瑞士因为多山,所以常见有轨上下山的电车,有的电车只会在非常短的区间里来回上下.</p>
+        <p>我在瑞士散步的时间段(傍晚和早晨),基本只能见到一些独自跑步和遛狗的人,那时候经常一整条街就只有我一个人,我心里会产生一种"如果长期呆在这会很难受"的感慨,在国内享受惯了人多的便利性,一时还无法适应这里人少的舒适性.那是一种"好坏都只和自己有关"的剥离感,在国内时经常会产生来自别人肯定的幸福、和来自别人不认可的痛苦,不是说不够超然,当你身边确确实实有那么大的人密度时谁都无法做到真正的抽离,但在瑞士很短的旅居时间里,当我发现自己身处一个完全没有中国人的异国环境,无论内向还是外向,你都只能向内思考、和自己相处.</p>
+        <p>某个早上我走到了超算中心附近的一个墓地,那是一个非常漂亮的墓地,里面的墓碑花样百出、比别墅风格还要迥异多样化,那是一种很强烈的表达"我是谁、我曾经存在过、我怎样活过"的方式,谁说外国人不在意身后事?人性是相似的,但是由于后天的生产方式和社会结构不一样,我们走向了不一样的活法,但是在某一个节点比如死亡,我们在意的东西又形成了交集.</p>
+        <p>我所在的卢加诺并不算大,对提切诺大学和国家超算中心的考察也很快完成,离开前最后一眼回望整个城市,它被阿尔卑斯山环绕、怀抱湖水,我想这对我来说是"天涯海角",对这的人来说却又是"角落".</p>
+      </section>
+
+      <section id="day1">
+        <div class="photo-block">
+          <img class="photo-frame" src="img/img_swd.png" alt="照片">
+          <p class="caption">瑞士美丽的阿尔卑斯山风光</p>
+        </div>
+      </section>
+
+    <footer>
+      Last Updated: 2026-05-31 | Template File: mod.html
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>游记 | Travelogue</title>
+  <style>
+    :root {
+      --paper: #f7f0de;
+      --paper-dark: #e5d8b8;
+      --ink: #2a2417;
+      --accent: #0f4f73;
+      --accent-soft: #cfe5f1;
+      --line: #9f8a5e;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Times New Roman", "SimSun", serif;
+      color: var(--ink);
+      background:
+        linear-gradient(180deg, rgba(255,255,255,0.35), rgba(255,255,255,0.35)),
+        repeating-linear-gradient(
+          to bottom,
+          var(--paper) 0,
+          var(--paper) 31px,
+          #f2e7cc 32px
+        );
+    }
+
+    .wrap {
+      width: min(980px, 92vw);
+      margin: 20px auto 40px;
+      border: 3px double var(--line);
+      background: #fffaf0;
+      box-shadow: 0 0 0 5px #e4d4ac, 0 8px 24px rgba(0, 0, 0, 0.2);
+    }
+
+    header {
+      padding: 24px 28px 16px;
+      border-bottom: 2px solid var(--line);
+      background: linear-gradient(to right, #f3e7c6, #efe0b8);
+    }
+
+    .site-title {
+      margin: 0;
+      font-size: clamp(28px, 5vw, 42px);
+      letter-spacing: 1px;
+      color: #19313f;
+      text-shadow: 1px 1px 0 #fff;
+    }
+
+    .subtitle {
+      margin: 8px 0 0;
+      font-size: 14px;
+      color: #4a4130;
+    }
+
+    nav {
+      margin-top: 14px;
+      font-size: 14px;
+    }
+
+    nav a {
+      color: #123f5a;
+      text-decoration: underline;
+      margin-right: 12px;
+    }
+
+    main {
+      padding: 20px 28px 30px;
+      line-height: 1.75;
+      font-size: 17px;
+    }
+
+    .post-title {
+      margin: 0;
+      font-size: clamp(24px, 3.8vw, 34px);
+      border-left: 8px solid var(--accent);
+      padding-left: 12px;
+    }
+
+    .meta {
+      margin: 10px 0 20px;
+      padding: 10px 12px;
+      border: 1px dashed var(--line);
+      background: #fbf4df;
+      font-size: 15px;
+    }
+
+    .note-box {
+      margin: 20px 0;
+      border: 1px solid #8aa9b9;
+      background: var(--accent-soft);
+      padding: 12px 14px;
+      font-size: 15px;
+    }
+
+    h2 {
+      margin-top: 28px;
+      margin-bottom: 10px;
+      font-size: 24px;
+      color: #1f3d4d;
+      border-bottom: 1px solid #8eb1c5;
+      padding-bottom: 4px;
+    }
+
+    .photo-block {
+      margin: 16px 0 24px;
+      padding: 12px;
+      border: 1px solid #b39a69;
+      background: #fdf6e3;
+    }
+
+    .photo-frame {
+      width: 400px;
+      height: 400px;
+      max-width: 100%;
+      border: 6px ridge #c4aa75;
+      display: block;
+      object-fit: cover;
+      margin: 0 auto;
+      background: #e9dfc5;
+    }
+
+    .caption {
+      text-align: center;
+      font-size: 14px;
+      margin-top: 8px;
+      color: #5b4d35;
+    }
+
+    .journal {
+      margin-top: 10px;
+      background: #fff;
+      border-left: 4px solid #caaf79;
+      padding: 10px 12px;
+    }
+
+    footer {
+      border-top: 2px solid var(--line);
+      padding: 12px 20px 16px;
+      font-size: 13px;
+      color: #514531;
+      background: #f0e2bf;
+      text-align: center;
+    }
+
+    @media (max-width: 640px) {
+      main { padding: 16px; font-size: 16px; }
+      header { padding: 18px 16px 14px; }
+      .meta { font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1 class="site-title">法国印象</h1>
+      <p class="subtitle">Travel Notes</p>
+    </header>
+
+    <main>
+
+      <section id="intro">
+        <p>法国没有我想象的热闹,除了图书馆,我到访的大学的图书馆在周末也人满为患;但是有一点和中国大学的图书馆类似,就是大家在座位上有的用电脑工作、有的手绘思路,但没有人真的在图书馆看书架上的书.我所到大学的图书馆的书也不算多,图书馆里书架占地很少,有很多座位和讨论室,但是上架的书都很有代表性.</p>
+        <p>法国的孩子不少,但是看见有很多独身带孩子的母亲,即使是周末也有,说明很可能在法国社会家庭关系不是那么稳固.至少在其他欧洲国家比如瑞士我看到的都是父母双方一起带孩子.</p>
+        <p>法国的大学教学仍然很像以前的学徒制,看他们的培养方案,即使是理论性较强的政治学方向的课程,也强调到岗实践(但是获知他们学生人数控制得较少).在中国大学这一点很难展开,因为人数实在太多,而社会工作岗位也很难为匹配学生的实践需求而作出调整并接收那么多学生进行实习(互联网公司要实施得好一些,因为其工作方便模块化和阶段化).</p>
+        <p>在法国的一大收获是我发现至少在教学上面,方法可以和知识进行脱离,方法有主观性、动态性,知识有客观性、固态性,哪怕是对于文科类的政治学也是如此,这对我之后的教学有启发意义.</p>
+      </section>
+
+      <section id="day1">
+        <div class="photo-block">
+          <img class="photo-frame" src="img/img_fra.png" alt="照片">
+          <p class="caption">法国街景.</p>
+        </div>
+      </section>
+
+    <footer>
+      Last Updated: 2026-05-31 | Template File: mod.html
+    </footer>
+  </div>
+</body>
+</html>

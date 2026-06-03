@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>游记 | Travelogue</title>
+  <style>
+    :root {
+      --paper: #f7f0de;
+      --paper-dark: #e5d8b8;
+      --ink: #2a2417;
+      --accent: #0f4f73;
+      --accent-soft: #cfe5f1;
+      --line: #9f8a5e;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Times New Roman", "SimSun", serif;
+      color: var(--ink);
+      background:
+        linear-gradient(180deg, rgba(255,255,255,0.35), rgba(255,255,255,0.35)),
+        repeating-linear-gradient(
+          to bottom,
+          var(--paper) 0,
+          var(--paper) 31px,
+          #f2e7cc 32px
+        );
+    }
+
+    .wrap {
+      width: min(980px, 92vw);
+      margin: 20px auto 40px;
+      border: 3px double var(--line);
+      background: #fffaf0;
+      box-shadow: 0 0 0 5px #e4d4ac, 0 8px 24px rgba(0, 0, 0, 0.2);
+    }
+
+    header {
+      padding: 24px 28px 16px;
+      border-bottom: 2px solid var(--line);
+      background: linear-gradient(to right, #f3e7c6, #efe0b8);
+    }
+
+    .site-title {
+      margin: 0;
+      font-size: clamp(28px, 5vw, 42px);
+      letter-spacing: 1px;
+      color: #19313f;
+      text-shadow: 1px 1px 0 #fff;
+    }
+
+    .subtitle {
+      margin: 8px 0 0;
+      font-size: 14px;
+      color: #4a4130;
+    }
+
+    nav {
+      margin-top: 14px;
+      font-size: 14px;
+    }
+
+    nav a {
+      color: #123f5a;
+      text-decoration: underline;
+      margin-right: 12px;
+    }
+
+    main {
+      padding: 20px 28px 30px;
+      line-height: 1.75;
+      font-size: 17px;
+    }
+
+    .post-title {
+      margin: 0;
+      font-size: clamp(24px, 3.8vw, 34px);
+      border-left: 8px solid var(--accent);
+      padding-left: 12px;
+    }
+
+    .meta {
+      margin: 10px 0 20px;
+      padding: 10px 12px;
+      border: 1px dashed var(--line);
+      background: #fbf4df;
+      font-size: 15px;
+    }
+
+    .note-box {
+      margin: 20px 0;
+      border: 1px solid #8aa9b9;
+      background: var(--accent-soft);
+      padding: 12px 14px;
+      font-size: 15px;
+    }
+
+    h2 {
+      margin-top: 28px;
+      margin-bottom: 10px;
+      font-size: 24px;
+      color: #1f3d4d;
+      border-bottom: 1px solid #8eb1c5;
+      padding-bottom: 4px;
+    }
+
+    .photo-block {
+      margin: 16px 0 24px;
+      padding: 12px;
+      border: 1px solid #b39a69;
+      background: #fdf6e3;
+    }
+
+    .photo-frame {
+      width: 400px;
+      height: 400px;
+      max-width: 100%;
+      border: 6px ridge #c4aa75;
+      display: block;
+      object-fit: cover;
+      margin: 0 auto;
+      background: #e9dfc5;
+    }
+
+    .caption {
+      text-align: center;
+      font-size: 14px;
+      margin-top: 8px;
+      color: #5b4d35;
+    }
+
+    .journal {
+      margin-top: 10px;
+      background: #fff;
+      border-left: 4px solid #caaf79;
+      padding: 10px 12px;
+    }
+
+    footer {
+      border-top: 2px solid var(--line);
+      padding: 12px 20px 16px;
+      font-size: 13px;
+      color: #514531;
+      background: #f0e2bf;
+      text-align: center;
+    }
+
+    @media (max-width: 640px) {
+      main { padding: 16px; font-size: 16px; }
+      header { padding: 18px 16px 14px; }
+      .meta { font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1 class="site-title">芬兰短访随记</h1>
+      <p class="subtitle">Travel Notes</p>
+    </header>
+
+    <main>
+
+      <section id="intro">
+        <p>虽然早已耳闻北欧冷清肃穆、芬兰人性格孤僻云云,但是真来了发现并未言过其实.</p>
+        <p>芬兰的大街上除了环境背景音,少有人说话,芬兰人之间很少交谈,但是他们看起来并不紧绷,而是独处时的一种放松和恢复能量的感觉.如果你在公共交通比如电车上忽然听到有人大声打电话,那么看过去99.9%的概率都是移民.</p>
+        <p>芬兰人不喜欢主动交流,但是一旦问问题,会发现他们大都能用流畅的英语交谈,也有可能是我交流的本来就是大学周边的人.芬兰的孩子很少,但是孩子的照看和管理都很用心,在芬兰时经常看见出来逛的学校路队,他们的班级很迷你、大都是10多人一个班,由2-3个老师带队看护.芬兰的低生育率和芬兰人的性格有关,他们喜欢独处、难以维持长期关系.</p>
+        <p>芬兰的赫尔辛基大学有个特别的设定,就是在一栋额外的建筑里有个"思考室",看起来像是为头脑风暴准备的,看起来面积很大,有图书馆般的规模;在赫大调研时、看赫大的课程设置,他们好像对固定的知识框架教学不太推崇,反而是推崇发散性思维的、内容不确定的灵活实践教学.</p>
+        <p>芬兰各处都有双语标识,是芬兰语和瑞典语.芬兰人虽然内向、但是骨子里并不像我们想象的那么不解风情,实际上从很多细节可以看出他们内心世界的丰富,比如地铁线的心形闭环、交通线上关于人类进化的涂鸦等等.</p>
+      </section>
+
+      <section id="day1">
+        <div class="photo-block">
+          <img class="photo-frame" src="img/img_fin.png" alt="照片">
+          <p class="caption">芬兰很难有繁华和热闹感.</p>
+        </div>
+      </section>
+
+    <footer>
+      Last Updated: 2026-05-31 | Template File: mod.html
+    </footer>
+  </div>
+</body>
+</html>

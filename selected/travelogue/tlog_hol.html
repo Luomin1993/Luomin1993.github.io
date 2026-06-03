@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>游记 | Travelogue</title>
+  <style>
+    :root {
+      --paper: #f7f0de;
+      --paper-dark: #e5d8b8;
+      --ink: #2a2417;
+      --accent: #0f4f73;
+      --accent-soft: #cfe5f1;
+      --line: #9f8a5e;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Times New Roman", "SimSun", serif;
+      color: var(--ink);
+      background:
+        linear-gradient(180deg, rgba(255,255,255,0.35), rgba(255,255,255,0.35)),
+        repeating-linear-gradient(
+          to bottom,
+          var(--paper) 0,
+          var(--paper) 31px,
+          #f2e7cc 32px
+        );
+    }
+
+    .wrap {
+      width: min(980px, 92vw);
+      margin: 20px auto 40px;
+      border: 3px double var(--line);
+      background: #fffaf0;
+      box-shadow: 0 0 0 5px #e4d4ac, 0 8px 24px rgba(0, 0, 0, 0.2);
+    }
+
+    header {
+      padding: 24px 28px 16px;
+      border-bottom: 2px solid var(--line);
+      background: linear-gradient(to right, #f3e7c6, #efe0b8);
+    }
+
+    .site-title {
+      margin: 0;
+      font-size: clamp(28px, 5vw, 42px);
+      letter-spacing: 1px;
+      color: #19313f;
+      text-shadow: 1px 1px 0 #fff;
+    }
+
+    .subtitle {
+      margin: 8px 0 0;
+      font-size: 14px;
+      color: #4a4130;
+    }
+
+    nav {
+      margin-top: 14px;
+      font-size: 14px;
+    }
+
+    nav a {
+      color: #123f5a;
+      text-decoration: underline;
+      margin-right: 12px;
+    }
+
+    main {
+      padding: 20px 28px 30px;
+      line-height: 1.75;
+      font-size: 17px;
+    }
+
+    .post-title {
+      margin: 0;
+      font-size: clamp(24px, 3.8vw, 34px);
+      border-left: 8px solid var(--accent);
+      padding-left: 12px;
+    }
+
+    .meta {
+      margin: 10px 0 20px;
+      padding: 10px 12px;
+      border: 1px dashed var(--line);
+      background: #fbf4df;
+      font-size: 15px;
+    }
+
+    .note-box {
+      margin: 20px 0;
+      border: 1px solid #8aa9b9;
+      background: var(--accent-soft);
+      padding: 12px 14px;
+      font-size: 15px;
+    }
+
+    h2 {
+      margin-top: 28px;
+      margin-bottom: 10px;
+      font-size: 24px;
+      color: #1f3d4d;
+      border-bottom: 1px solid #8eb1c5;
+      padding-bottom: 4px;
+    }
+
+    .photo-block {
+      margin: 16px 0 24px;
+      padding: 12px;
+      border: 1px solid #b39a69;
+      background: #fdf6e3;
+    }
+
+    .photo-frame {
+      width: 400px;
+      height: 400px;
+      max-width: 100%;
+      border: 6px ridge #c4aa75;
+      display: block;
+      object-fit: cover;
+      margin: 0 auto;
+      background: #e9dfc5;
+    }
+
+    .caption {
+      text-align: center;
+      font-size: 14px;
+      margin-top: 8px;
+      color: #5b4d35;
+    }
+
+    .journal {
+      margin-top: 10px;
+      background: #fff;
+      border-left: 4px solid #caaf79;
+      padding: 10px 12px;
+    }
+
+    footer {
+      border-top: 2px solid var(--line);
+      padding: 12px 20px 16px;
+      font-size: 13px;
+      color: #514531;
+      background: #f0e2bf;
+      text-align: center;
+    }
+
+    @media (max-width: 640px) {
+      main { padding: 16px; font-size: 16px; }
+      header { padding: 18px 16px 14px; }
+      .meta { font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1 class="site-title">荷兰的启示</h1>
+      <p class="subtitle">Travel Notes</p>
+    </header>
+
+    <main>
+
+      <section id="intro">
+        <p>由于出国考察任务我曾途经荷兰,虽然时间不长但是印象深刻,荷兰的城市堪称花园,荷兰人对人工开凿建造水道颇有心得,有星罗棋布的大大小小水道.荷兰人的街道比较窄但是居民的庭院却很大,庭院里通常会种很多花草,小猫和天鹅、鸽子都和谐地和人生活.很多荷兰人喜欢躺在草坪上放空和发呆.我不会说荷语,但是在荷兰说英语当地人基本能懂并交流.</p>
+        <p>在荷兰时,我曾想在如此优美的环境里,没有生活的压力的情况下,人到底该做些什么?</p>
+        <p>人的幸福感是阶段性的,当已经习惯了以往向往的生活,就会陷入空虚和无聊.我曾见过很多移民在荷兰的公园里大声嚎叫、亦或者是掏出大麻旁若无人地准备开始享用.这让我觉得是对这个优美环境的浪费.但是他们确实也不知道该努力做些什么.</p>
+        <p>目标和意义总是需要我们主动去寻找的,也是我们自己决定的,当我们身处一个优美的环境时,是幸运的但也是被动的,时间流逝、我们并不会因此被记得.而真正让我们对抗时间、接近永恒的是创造性和自我突破.德弗里斯在布雷达提出了突变论,这里花园的植物似乎仍在述说他的故事.</p>
+      </section>
+
+      <section id="day1">
+        <div class="photo-block">
+          <img class="photo-frame" src="img/img_hol.png" alt="照片">
+          <p class="caption">荷兰城堡风光:该城堡还有一道额外的人工护城河.</p>
+        </div>
+      </section>
+
+    <footer>
+      Last Updated: 2026-05-31 | Template File: mod.html
+    </footer>
+  </div>
+</body>
+</html>
